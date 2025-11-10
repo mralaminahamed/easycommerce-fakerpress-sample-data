@@ -6,8 +6,8 @@ EasyCommerce FakerPress Sample Data provides locale-specific sample data for the
 
 ## Features
 
-- **75+ Locales**: Comprehensive international support with culturally appropriate data
-- **2,400+ JSON Files**: Extensive data coverage for all e-commerce entities
+- **75 Locales**: Comprehensive international support with culturally appropriate data
+- **2,471 JSON Files**: Extensive data coverage for all e-commerce entities
 - **Auto-sync**: Automatically downloaded by the EasyCommerce FakerPress plugin
 - **Realistic Data**: Business-relevant content for testing and development
 - **Modular Structure**: Organized by data type and locale for easy maintenance
