@@ -1,32 +1,32 @@
 {
   "standard": {
-    "name": "Standard Shipping",
-    "description": "Regular delivery within 5-7 business days",
+    "name": "Livraison Standard",
+    "description": "Livraison régulière dans un délai de 5 à 10 jours ouvrables",
     "calculation_base": "price"
   },
   "express": {
-    "name": "Express Shipping",
-    "description": "Fast delivery within 1-3 business days",
+    "name": "Livraison Express",
+    "description": "Livraison rapide dans un délai de 2 à 5 jours ouvrables",
     "calculation_base": "price"
   },
-  "weight": {
-    "name": "Weight-Based Shipping",
-    "description": "Shipping cost calculated by weight",
+  "prioritaire": {
+    "name": "Livraison Prioritaire",
+    "description": "Livraison prioritaire dans un délai de 1 à 3 jours ouvrables",
+    "calculation_base": "price"
+  },
+  "poids": {
+    "name": "Livraison Selon le Poids",
+    "description": "Coût de livraison calculé selon le poids",
     "calculation_base": "weight"
   },
-  "free": {
-    "name": "Free Shipping",
-    "description": "Free shipping for orders above minimum amount",
+  "gratuit": {
+    "name": "Livraison Gratuite",
+    "description": "Livraison gratuite pour les commandes au-dessus du montant minimum",
     "calculation_base": "price"
   },
-  "overnight": {
-    "name": "Overnight Delivery",
-    "description": "Next business day delivery",
-    "calculation_base": "price"
-  },
-  "quantity": {
-    "name": "Quantity-Based Shipping",
-    "description": "Shipping cost based on number of items",
-    "calculation_base": "quantity"
+  "postes_canada": {
+    "name": "Postes Canada",
+    "description": "Service de colis régulier de Postes Canada",
+    "calculation_base": "weight"
   }
 }

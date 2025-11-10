@@ -12,7 +12,7 @@
     "description": "Articles et services exonérés d'impôt"
   },
   "luxury": {
-    "name": "Taux d'Imposition de Luxe",
+    "name": "Taux d'Imposition sur le Luxe",
     "description": "Taux d'imposition plus élevé pour les biens et services de luxe"
   },
   "digital": {
