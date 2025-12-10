@@ -1,0 +1,10 @@
+[
+  "SAVE{amount}",
+  "GET{amount}OFF",
+  "DEAL{amount}",
+  "{amount}PERCENT",
+  "PROMO{code}",
+  "SPECIAL{amount}",
+  "OFFER{code}",
+  "DISC{amount}"
+]
