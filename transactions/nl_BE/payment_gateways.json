@@ -1,10 +1,10 @@
 [
   "stripe",
   "paypal",
-  "authorize_net",
-  "braintree",
+  "cash-on-delivery",
+  "bank",
   "square",
-  "adyen",
-  "2checkout",
-  "worldpay"
+  "braintree",
+  "mollie",
+  "paddle"
 ]
