@@ -1,7 +1,10 @@
 {
-  "stripe": 40,
+  "stripe": 35,
   "paypal": 25,
-  "bank_transfer": 15,
-  "cash_on_delivery": 10,
-  "credit_card": 10
+  "cash-on-delivery": 15,
+  "bank": 10,
+  "square": 7,
+  "braintree": 5,
+  "mollie": 2,
+  "paddle": 1
 }
