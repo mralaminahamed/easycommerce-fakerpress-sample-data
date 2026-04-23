@@ -1,23 +1,17 @@
 {
   "payment": {
-    "completado": 85,
-    "pendiente": 10,
-    "fallido": 3,
-    "cancelado": 2
+    "completed": 85,
+    "pending": 10,
+    "failed": 3,
+    "refunded": 2
   },
   "refund": {
-    "completado": 90,
-    "pendiente": 8,
-    "fallido": 2
+    "completed": 90,
+    "pending": 8,
+    "failed": 2
   },
   "adjustment": {
-    "completado": 95,
-    "pendiente": 5
-  },
-  "fee": {
-    "completado": 100
-  },
-  "commission": {
-    "completado": 100
+    "completed": 95,
+    "pending": 5
   }
 }

@@ -1,23 +1,17 @@
 {
   "payment": {
-    "tamamlandı": 85,
-    "beklemede": 10,
-    "başarısız": 3,
-    "iptal_edildi": 2
+    "completed": 85,
+    "pending": 10,
+    "failed": 3,
+    "refunded": 2
   },
   "refund": {
-    "tamamlandı": 90,
-    "beklemede": 8,
-    "başarısız": 2
+    "completed": 90,
+    "pending": 8,
+    "failed": 2
   },
   "adjustment": {
-    "tamamlandı": 95,
-    "beklemede": 5
-  },
-  "fee": {
-    "tamamlandı": 100
-  },
-  "commission": {
-    "tamamlandı": 100
+    "completed": 95,
+    "pending": 5
   }
 }
