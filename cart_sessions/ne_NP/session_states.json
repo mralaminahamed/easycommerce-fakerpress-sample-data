@@ -1,1 +1,6 @@
-["सक्रिय", "परित्यक्त", "रूपान्तरित", "समाप्त"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]

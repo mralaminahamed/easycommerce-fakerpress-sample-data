@@ -1,1 +1,6 @@
-["aktyvus", "apleistas", "konvertuotas", "pasibaigęs"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]

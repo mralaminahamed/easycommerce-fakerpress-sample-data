@@ -1,1 +1,6 @@
-["aktif", "terk edilmiş", "dönüştürülmüş", "süresi dolmuş"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]

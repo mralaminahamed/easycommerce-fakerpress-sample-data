@@ -1,1 +1,6 @@
-["aktívny", "opustený", "konvertovaný", "vypršaný"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]

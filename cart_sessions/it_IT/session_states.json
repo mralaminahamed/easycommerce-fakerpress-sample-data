@@ -1,1 +1,6 @@
-["attivo", "abbandonato", "convertito", "scaduto"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]

@@ -1,1 +1,6 @@
-["aktivan", "napušten", "konvertovan", "istekao"]
+[
+  "pending",
+  "abandoned",
+  "completed",
+  "cancelled"
+]
