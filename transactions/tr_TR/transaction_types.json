@@ -1,1 +1,5 @@
-["ödeme", "iade", "düzeltme", "ücret", "komisyon"]
+[
+  "payment",
+  "refund",
+  "adjustment"
+]

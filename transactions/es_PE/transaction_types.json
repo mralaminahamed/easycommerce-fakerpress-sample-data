@@ -1,1 +1,5 @@
-["pago", "reembolso", "ajuste", "tarifa", "comisión"]
+[
+  "payment",
+  "refund",
+  "adjustment"
+]
