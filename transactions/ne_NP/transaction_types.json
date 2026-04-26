@@ -1,0 +1,41 @@
+{
+  "payment": {
+    "weight": 70,
+    "status": {
+      "completed": 70,
+      "pending": 15,
+      "failed": 10,
+      "cancelled": 5
+    }
+  },
+  "refund": {
+    "weight": 15,
+    "status": {
+      "completed": 80,
+      "pending": 15,
+      "failed": 5
+    }
+  },
+  "adjustment": {
+    "weight": 8,
+    "status": {
+      "completed": 90,
+      "pending": 10
+    }
+  },
+  "fee": {
+    "weight": 5,
+    "status": {
+      "completed": 95,
+      "pending": 5
+    }
+  },
+  "chargeback": {
+    "weight": 2,
+    "status": {
+      "pending": 50,
+      "completed": 30,
+      "failed": 20
+    }
+  }
+}

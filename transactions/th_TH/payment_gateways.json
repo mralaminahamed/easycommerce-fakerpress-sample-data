@@ -1,0 +1,98 @@
+{
+  "stripe": {
+    "name": "Stripe",
+    "weight": 30,
+    "prefix": "ch_",
+    "id_length": 24
+  },
+  "paypal": {
+    "name": "PayPal",
+    "weight": 22,
+    "prefix": "",
+    "id_length": 17
+  },
+  "apple_pay": {
+    "name": "Apple Pay",
+    "weight": 8,
+    "prefix": "ap_",
+    "id_length": 20
+  },
+  "google_pay": {
+    "name": "Google Pay",
+    "weight": 7,
+    "prefix": "gp_",
+    "id_length": 20
+  },
+  "square": {
+    "name": "Square",
+    "weight": 5,
+    "prefix": "",
+    "id_length": 22
+  },
+  "braintree": {
+    "name": "Braintree",
+    "weight": 4,
+    "prefix": "",
+    "id_length": 8
+  },
+  "authorize_net": {
+    "name": "Authorize.Net",
+    "weight": 3,
+    "prefix": "",
+    "id_length": 10
+  },
+  "klarna": {
+    "name": "Klarna",
+    "weight": 4,
+    "prefix": "klrn_",
+    "id_length": 16
+  },
+  "afterpay": {
+    "name": "Afterpay",
+    "weight": 3,
+    "prefix": "ap_",
+    "id_length": 16
+  },
+  "razorpay": {
+    "name": "Razorpay",
+    "weight": 3,
+    "prefix": "pay_",
+    "id_length": 14
+  },
+  "mollie": {
+    "name": "Mollie",
+    "weight": 3,
+    "prefix": "tr_",
+    "id_length": 10
+  },
+  "adyen": {
+    "name": "Adyen",
+    "weight": 2,
+    "prefix": "",
+    "id_length": 16
+  },
+  "payu": {
+    "name": "PayU",
+    "weight": 2,
+    "prefix": "",
+    "id_length": 15
+  },
+  "bank_transfer": {
+    "name": "Bank Transfer",
+    "weight": 4,
+    "prefix": "bt_",
+    "id_length": 12
+  },
+  "promptpay": {
+    "name": "PromptPay",
+    "weight": 35,
+    "prefix": "ppp_",
+    "id_length": 15
+  },
+  "truemoney": {
+    "name": "TrueMoney",
+    "weight": 20,
+    "prefix": "tm_",
+    "id_length": 16
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "completed": 55,
+  "pending": 25,
+  "processing": 12,
+  "failed": 5,
+  "cancelled": 3
+}

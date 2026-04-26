@@ -1,0 +1,22 @@
+{
+  "original_payment_method": {
+    "label": "Original Payment Method",
+    "weight": 60
+  },
+  "store_credit": {
+    "label": "Store Credit",
+    "weight": 20
+  },
+  "bank_transfer": {
+    "label": "Bank Transfer",
+    "weight": 12
+  },
+  "cheque": {
+    "label": "Cheque",
+    "weight": 5
+  },
+  "cryptocurrency": {
+    "label": "Cryptocurrency",
+    "weight": 3
+  }
+}

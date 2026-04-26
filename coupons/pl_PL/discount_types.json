@@ -1,0 +1,22 @@
+{
+  "percentage": {
+    "label": "Percentage Off",
+    "weight": 45
+  },
+  "fixed": {
+    "label": "Fixed Amount Off",
+    "weight": 30
+  },
+  "free_shipping": {
+    "label": "Free Shipping",
+    "weight": 15
+  },
+  "buy_x_get_y": {
+    "label": "Buy X Get Y",
+    "weight": 7
+  },
+  "products": {
+    "label": "Product Discount",
+    "weight": 3
+  }
+}
