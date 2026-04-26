@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Produk luar biasa!",
+    "Melebihi ekspektasi",
+    "Sangat direkomendasikan",
+    "Sangat worth it",
+    "Bekerja sempurna",
+    "Pengiriman cepat",
+    "Kualitas bagus",
+    "Akan beli lagi",
+    "Sangat suka!",
+    "Sesuai deskripsi",
+    "Bintang lima!",
+    "Pembelian terbaik tahun ini"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Bagus tapi bisa lebih baik",
+    "Lumayan untuk harganya",
+    "Sesuai fungsi",
+    "Produk biasa",
+    "Tidak buruk",
+    "Kualitas standar",
+    "Bisa ditingkatkan"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Tidak sebanding harga",
+    "Kecewa",
+    "Tidak sesuai deskripsi",
+    "Kualitas buruk",
+    "Cepat rusak",
+    "Susah disetting",
+    "Layanan pelanggan kurang baik"
   ]
 }

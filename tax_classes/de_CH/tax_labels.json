@@ -1,6 +1,6 @@
 [
-  "VAT",
-  "Tax",
-  "Sales Tax",
-  "GST"
+  "MWST",
+  "Reduzierte MWST",
+  "Sondersatz",
+  "Steuerbefreit"
 ]

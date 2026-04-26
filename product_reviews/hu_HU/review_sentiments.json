@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Fantasztikus termék!",
+    "Felülmúlta a várakozásaimat",
+    "Erősen ajánlom",
+    "Kiváló ár-érték",
+    "Tökéletesen működik",
+    "Gyors szállítás",
+    "Kiváló minőség",
+    "Újra megvenném",
+    "Imádom!",
+    "Pontosan a leírás szerint",
+    "Öt csillag!",
+    "Az év legjobb vásárlása"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Jó, de lehetne jobb",
+    "Az árához mérten oké",
+    "Teszi a dolgát",
+    "Átlagos termék",
+    "Nem rossz",
+    "Elfogadható minőség",
+    "Lehetne jobb"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Nem éri meg az árát",
+    "Csalódott vagyok",
+    "Nem felel meg a leírásnak",
+    "Gyenge minőség",
+    "Hamar elromlott",
+    "Nehéz beállítani",
+    "Az ügyfélszolgálat nem segített"
   ]
 }

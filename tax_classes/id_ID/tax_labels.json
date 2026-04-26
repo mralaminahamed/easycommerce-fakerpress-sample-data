@@ -1,6 +1,6 @@
 [
-  "VAT",
-  "Tax",
-  "Sales Tax",
-  "GST"
+  "PPN",
+  "PPN Khusus",
+  "PPN 0%",
+  "Bebas PPN"
 ]

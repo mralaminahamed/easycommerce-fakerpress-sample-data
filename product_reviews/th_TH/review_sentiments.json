@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "สินค้าเยี่ยมมาก!",
+    "เกินความคาดหวัง",
+    "แนะนำอย่างยิ่ง",
+    "คุ้มค่ามาก",
+    "ใช้งานได้ดี",
+    "จัดส่งรวดเร็ว",
+    "คุณภาพดี",
+    "จะซื้ออีก",
+    "ชอบมาก!",
+    "ตรงตามที่อธิบาย",
+    "ห้าดาว!",
+    "ซื้อที่ดีที่สุดในปีนี้"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "ดี แต่ปรับปรุงได้",
+    "คุ้มค่ากับราคา",
+    "ใช้งานได้",
+    "สินค้าธรรมดา",
+    "ใช้ได้",
+    "คุณภาพพอใช้",
+    "ควรปรับปรุง"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "ไม่คุ้มราคา",
+    "ผิดหวัง",
+    "ไม่ตรงกับคำอธิบาย",
+    "คุณภาพต่ำ",
+    "พังเร็ว",
+    "ตั้งค่ายาก",
+    "บริการลูกค้าแย่"
   ]
 }

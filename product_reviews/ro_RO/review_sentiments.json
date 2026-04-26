@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Produs excelent!",
+    "A depășit așteptările",
+    "Recomand cu căldură",
+    "Raport calitate-preț excelent",
+    "Funcționează perfect",
+    "Livrare rapidă",
+    "Calitate excelentă",
+    "Voi cumpăra din nou",
+    "Îmi place!",
+    "Exact ca în descriere",
+    "Cinci stele!",
+    "Cea mai bună achiziție"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Bun, dar poate fi îmbunătățit",
+    "Decent pentru preț",
+    "Își face treaba",
+    "Produs mediu",
+    "Nu e rău",
+    "Calitate acceptabilă",
+    "Ar putea fi mai bun"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Nu merită prețul",
+    "Dezamăgit",
+    "Nu corespunde descrierii",
+    "Calitate slabă",
+    "S-a stricat repede",
+    "Greu de configurat",
+    "Serviciu clienți slab"
   ]
 }

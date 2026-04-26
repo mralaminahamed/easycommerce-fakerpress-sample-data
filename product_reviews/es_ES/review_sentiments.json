@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "¡Producto increíble!",
+    "Superó mis expectativas",
+    "Muy recomendado",
+    "Excelente relación calidad-precio",
+    "Funciona perfectamente",
+    "Envío rápido",
+    "Calidad excelente",
+    "Volveré a comprar",
+    "¡Me encanta!",
+    "Tal como se describe",
+    "¡Cinco estrellas!",
+    "Mejor compra del año"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Bueno pero podría mejorar",
+    "Decente para el precio",
+    "Hace lo que dice",
+    "Producto promedio",
+    "No está mal",
+    "Calidad aceptable",
+    "Sería mejor con mejoras"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "No vale el precio",
+    "Decepcionado",
+    "No coincide con la descripción",
+    "Mala calidad",
+    "Dejó de funcionar pronto",
+    "Difícil de configurar",
+    "Servicio al cliente poco útil"
   ]
 }

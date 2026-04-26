@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Καταπληκτικό προϊόν!",
+    "Ξεπέρασε τις προσδοκίες μου",
+    "Το συνιστώ ανεπιφύλακτα",
+    "Εξαιρετική σχέση ποιότητας-τιμής",
+    "Λειτουργεί τέλεια",
+    "Γρήγορη παράδοση",
+    "Άριστη ποιότητα",
+    "Θα το αγοράσω ξανά",
+    "Το λατρεύω!",
+    "Όπως περιγράφεται",
+    "Πέντε αστέρια!",
+    "Η καλύτερη αγορά της χρονιάς"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Καλό αλλά βελτιώσιμο",
+    "Λογικό για την τιμή",
+    "Κάνει αυτό που λέει",
+    "Μέτριο προϊόν",
+    "Όχι κακό",
+    "Αποδεκτή ποιότητα",
+    "Θα μπορούσε να είναι καλύτερο"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Δεν αξίζει τα χρήματα",
+    "Απογοητευμένος",
+    "Δεν ταιριάζει με την περιγραφή",
+    "Κακή ποιότητα",
+    "Χάλασε γρήγορα",
+    "Δύσκολη εγκατάσταση",
+    "Άθλια εξυπηρέτηση πελατών"
   ]
 }

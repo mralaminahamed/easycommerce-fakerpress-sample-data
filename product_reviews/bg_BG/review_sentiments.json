@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Невероятен продукт!",
+    "Надмина очакванията ми",
+    "Силно препоръчвам",
+    "Отлично качество за цената",
+    "Работи перфектно",
+    "Бърза доставка",
+    "Отлично качество",
+    "Ще купя отново",
+    "Обожавам го!",
+    "Точно както е описано",
+    "Пет звезди!",
+    "Най-добра покупка"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Добро, но може и по-добре",
+    "Прилично за цената",
+    "Върши си работата",
+    "Среден продукт",
+    "Не е зле",
+    "Приемливо качество",
+    "Може да се подобри"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Не си струва парите",
+    "Разочарован",
+    "Не отговаря на описанието",
+    "Лошо качество",
+    "Бързо се счупи",
+    "Трудно за настройка",
+    "Слаба клиентска поддръжка"
   ]
 }

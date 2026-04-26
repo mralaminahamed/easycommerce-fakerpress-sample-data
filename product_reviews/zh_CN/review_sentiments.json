@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "产品太棒了！",
+    "超出了我的预期",
+    "强烈推荐",
+    "物超所值",
+    "运行完美",
+    "发货迅速",
+    "品质优秀",
+    "会再次购买",
+    "非常喜欢！",
+    "与描述一致",
+    "五星好评！",
+    "今年最佳购物"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "不错但可以更好",
+    "对得起价格",
+    "符合预期",
+    "普通产品",
+    "还行",
+    "质量一般",
+    "有改进空间"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "不值这个价",
+    "失望",
+    "与描述不符",
+    "质量差",
+    "很快就坏了",
+    "难以设置",
+    "客服不够好"
   ]
 }

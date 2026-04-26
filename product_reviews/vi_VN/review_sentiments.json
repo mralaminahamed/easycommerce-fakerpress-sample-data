@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "Sản phẩm tuyệt vời!",
+    "Vượt cả mong đợi",
+    "Rất nên mua",
+    "Đáng đồng tiền",
+    "Hoạt động hoàn hảo",
+    "Giao hàng nhanh",
+    "Chất lượng tốt",
+    "Sẽ mua lại",
+    "Rất thích!",
+    "Đúng như mô tả",
+    "Năm sao!",
+    "Mua tốt nhất năm"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "Tốt nhưng có thể cải thiện",
+    "Ổn so với giá",
+    "Đúng chức năng",
+    "Sản phẩm trung bình",
+    "Cũng được",
+    "Chất lượng tạm",
+    "Có thể tốt hơn"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "Không đáng tiền",
+    "Thất vọng",
+    "Không đúng mô tả",
+    "Chất lượng kém",
+    "Hỏng nhanh",
+    "Khó cài đặt",
+    "Hỗ trợ khách hàng kém"
   ]
 }

@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "চমৎকার পণ্য!",
+    "আমার প্রত্যাশা ছাড়িয়েছে",
+    "দারুণ সুপারিশ",
+    "দামের তুলনায় চমৎকার",
+    "নিখুঁতভাবে কাজ করে",
+    "দ্রুত ডেলিভারি",
+    "অসাধারণ মান",
+    "আবার কিনব",
+    "খুব ভালো লেগেছে!",
+    "বর্ণনা অনুযায়ী",
+    "পাঁচ তারা!",
+    "বছরের সেরা কেনাকাটা"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "ভালো তবে আরও উন্নত হতে পারে",
+    "দামের তুলনায় ঠিকঠাক",
+    "কাজ করে",
+    "সাধারণ পণ্য",
+    "খারাপ না",
+    "গ্রহণযোগ্য মান",
+    "আরও ভালো হতে পারে"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "দামের যোগ্য নয়",
+    "হতাশ",
+    "বর্ণনার সাথে মিলে না",
+    "নিম্নমানের",
+    "দ্রুত নষ্ট হয়েছে",
+    "সেট করা কঠিন",
+    "গ্রাহক সেবা ভালো না"
   ]
 }

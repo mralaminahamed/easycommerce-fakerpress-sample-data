@@ -1,4 +1,6 @@
 [
   "VAT",
-  "VAT Reduced Rate"
+  "Standard VAT",
+  "Reduced VAT",
+  "Zero-rated VAT"
 ]

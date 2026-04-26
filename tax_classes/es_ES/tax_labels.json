@@ -1,6 +1,6 @@
 [
-  "VAT",
-  "Tax",
-  "Sales Tax",
-  "GST"
+  "IVA",
+  "IVA Reducido",
+  "IVA Superreducido",
+  "Exento"
 ]

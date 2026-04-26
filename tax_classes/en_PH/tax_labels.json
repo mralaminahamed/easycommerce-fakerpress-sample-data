@@ -1,6 +1,5 @@
 [
   "VAT",
-  "Tax",
-  "Sales Tax",
-  "GST"
+  "Zero-rated VAT",
+  "VAT-Exempt"
 ]

@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "منتج رائع!",
+    "فاق توقعاتي",
+    "أنصح به بشدة",
+    "جودة ممتازة بالسعر",
+    "يعمل بشكل مثالي",
+    "شحن سريع",
+    "جودة عالية",
+    "سأشتريه مجدداً",
+    "أحبه!",
+    "كما هو موصوف",
+    "خمس نجوم!",
+    "أفضل شراء هذا العام"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "جيد ولكن يمكن تحسينه",
+    "لائق مقابل السعر",
+    "يفي بالغرض",
+    "منتج عادي",
+    "ليس سيئاً",
+    "جودة مقبولة",
+    "يمكن أن يكون أفضل"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "لا يستحق السعر",
+    "خائب الأمل",
+    "لا يطابق الوصف",
+    "جودة رديئة",
+    "تعطل بسرعة",
+    "صعب الإعداد",
+    "خدمة العملاء سيئة"
   ]
 }

@@ -1,34 +1,34 @@
 {
   "positive": [
-    "Amazing product!",
-    "Exceeded my expectations",
-    "Highly recommend",
-    "Great value for money",
-    "Works perfectly",
-    "Fast shipping",
-    "Excellent quality",
-    "Will buy again",
-    "Love it!",
-    "Exactly as described",
-    "Five stars!",
-    "Best purchase this year"
+    "शानदार उत्पाद!",
+    "मेरी उम्मीदों से बढ़कर",
+    "बहुत अनुशंसित",
+    "पैसे की पूरी कीमत",
+    "बिल्कुल सही काम करता है",
+    "तेज़ डिलीवरी",
+    "उत्कृष्ट गुणवत्ता",
+    "फिर से खरीदूंगा",
+    "बहुत पसंद आया!",
+    "विवरण के अनुसार",
+    "पांच सितारे!",
+    "साल की सबसे अच्छी खरीद"
   ],
   "neutral": [
-    "Good but could be better",
-    "Decent for the price",
-    "Does what it says",
-    "Average product",
-    "Not bad",
-    "Acceptable quality",
-    "Would be better with improvements"
+    "अच्छा है पर सुधार हो सकता है",
+    "कीमत के हिसाब से ठीक",
+    "अपना काम करता है",
+    "साधारण उत्पाद",
+    "बुरा नहीं",
+    "ठीक-ठाक गुणवत्ता",
+    "और बेहतर हो सकता है"
   ],
   "negative": [
-    "Not worth the price",
-    "Disappointed",
-    "Does not match description",
-    "Poor quality",
-    "Stopped working quickly",
-    "Hard to set up",
-    "Customer support was unhelpful"
+    "कीमत के लायक नहीं",
+    "निराश",
+    "विवरण से मेल नहीं खाता",
+    "खराब गुणवत्ता",
+    "जल्दी खराब हो गया",
+    "सेट करना मुश्किल",
+    "ग्राहक सेवा खराब"
   ]
 }
