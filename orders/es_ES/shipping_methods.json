@@ -1,26 +1,74 @@
 {
-  "Envío estándar": {
+  "free": {
+    "min": 0,
+    "max": 0,
+    "days": "7-14",
+    "weight": 20
+  },
+  "economy": {
+    "min": 2.99,
+    "max": 6.99,
+    "days": "7-10",
+    "weight": 15
+  },
+  "standard": {
     "min": 5.99,
     "max": 12.99,
     "days": "5-7",
-    "weight": 50
+    "weight": 30
   },
-  "Envío exprés": {
+  "tracked": {
+    "min": 8.99,
+    "max": 14.99,
+    "days": "4-6",
+    "weight": 20
+  },
+  "express": {
     "min": 15.99,
     "max": 25.99,
     "days": "2-3",
-    "weight": 30
+    "weight": 10
   },
-  "Envío nocturno": {
+  "overnight": {
     "min": 25.99,
     "max": 45.99,
     "days": "1",
-    "weight": 15
+    "weight": 4
   },
-  "Recogida": {
+  "same_day": {
+    "min": 35.99,
+    "max": 59.99,
+    "days": "0",
+    "weight": 1
+  },
+  "pickup": {
     "min": 0,
     "max": 0,
     "days": "0",
     "weight": 5
+  },
+  "click_collect": {
+    "min": 0,
+    "max": 2.99,
+    "days": "1-2",
+    "weight": 5
+  },
+  "freight": {
+    "min": 49.99,
+    "max": 149.99,
+    "days": "5-10",
+    "weight": 2
+  },
+  "international_standard": {
+    "min": 12.99,
+    "max": 29.99,
+    "days": "10-21",
+    "weight": 3
+  },
+  "international_express": {
+    "min": 29.99,
+    "max": 69.99,
+    "days": "5-8",
+    "weight": 2
   }
 }

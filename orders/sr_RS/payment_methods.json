@@ -1,10 +1,14 @@
 {
-  "stripe": 35,
-  "paypal": 25,
-  "cash-on-delivery": 15,
+  "stripe": 30,
+  "paypal": 22,
+  "cash-on-delivery": 12,
   "bank": 10,
-  "square": 7,
-  "braintree": 5,
+  "apple-pay": 7,
+  "google-pay": 6,
+  "square": 4,
+  "braintree": 3,
   "mollie": 2,
-  "paddle": 1
+  "paddle": 1,
+  "klarna": 2,
+  "afterpay": 1
 }

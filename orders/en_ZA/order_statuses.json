@@ -1,9 +1,12 @@
 {
-  "pending": 25,
-  "processing": 35,
-  "completed": 30,
-  "cancelled": 5,
-  "on_hold": 2,
-  "partially_refunded": 2,
-  "refunded": 1
+  "pending": 15,
+  "processing": 20,
+  "on-hold": 5,
+  "completed": 40,
+  "cancelled": 8,
+  "refunded": 4,
+  "failed": 3,
+  "trash": 1,
+  "partial-refund": 2,
+  "awaiting-shipment": 2
 }

@@ -1,92 +1,282 @@
 [
   {
-    "id": 1,
-    "name": "Amerika Birleşik Devletleri",
-    "iso2": "US",
-    "iso3": "USA",
-    "phone_code": "+1",
-    "capital": "Washington D.C.",
+    "code": "US",
+    "name": "United States",
+    "continent": "North America",
     "currency": "USD",
-    "currency_name": "ABD Doları",
-    "currency_symbol": "$",
-    "region": "Amerika",
-    "subregion": "Kuzey Amerika",
-    "states_count": 50,
-    "cities_per_state": 15
+    "calling_code": "+1"
   },
   {
-    "id": 2,
-    "name": "Kanada",
-    "iso2": "CA",
-    "iso3": "CAN",
-    "phone_code": "+1",
-    "capital": "Ottawa",
-    "currency": "CAD",
-    "currency_name": "Kanada Doları",
-    "currency_symbol": "C$",
-    "region": "Amerika",
-    "subregion": "Kuzey Amerika",
-    "states_count": 13,
-    "cities_per_state": 12
-  },
-  {
-    "id": 3,
-    "name": "Birleşik Krallık",
-    "iso2": "GB",
-    "iso3": "GBR",
-    "phone_code": "+44",
-    "capital": "Londra",
+    "code": "GB",
+    "name": "United Kingdom",
+    "continent": "Europe",
     "currency": "GBP",
-    "currency_name": "İngiliz Sterlini",
-    "currency_symbol": "£",
-    "region": "Avrupa",
-    "subregion": "Kuzey Avrupa",
-    "states_count": 4,
-    "cities_per_state": 20
+    "calling_code": "+44"
   },
   {
-    "id": 4,
-    "name": "Avustralya",
-    "iso2": "AU",
-    "iso3": "AUS",
-    "phone_code": "+61",
-    "capital": "Canberra",
+    "code": "DE",
+    "name": "Germany",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+49"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+33"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+39"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+34"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+31"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "continent": "Europe",
+    "currency": "EUR",
+    "calling_code": "+32"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "continent": "Europe",
+    "currency": "SEK",
+    "calling_code": "+46"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "continent": "Europe",
+    "currency": "NOK",
+    "calling_code": "+47"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "continent": "Europe",
+    "currency": "DKK",
+    "calling_code": "+45"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "continent": "Europe",
+    "currency": "PLN",
+    "calling_code": "+48"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "continent": "North America",
+    "currency": "CAD",
+    "calling_code": "+1"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "continent": "North America",
+    "currency": "MXN",
+    "calling_code": "+52"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "continent": "South America",
+    "currency": "BRL",
+    "calling_code": "+55"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "continent": "South America",
+    "currency": "ARS",
+    "calling_code": "+54"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "continent": "Oceania",
     "currency": "AUD",
-    "currency_name": "Avustralya Doları",
-    "currency_symbol": "A$",
-    "region": "Okyanusya",
-    "subregion": "Avustralya ve Yeni Zelanda",
-    "states_count": 8,
-    "cities_per_state": 10
+    "calling_code": "+61"
   },
   {
-    "id": 5,
-    "name": "Almanya",
-    "iso2": "DE",
-    "iso3": "DEU",
-    "phone_code": "+49",
-    "capital": "Berlin",
-    "currency": "EUR",
-    "currency_name": "Euro",
-    "currency_symbol": "€",
-    "region": "Avrupa",
-    "subregion": "Batı Avrupa",
-    "states_count": 16,
-    "cities_per_state": 8
+    "code": "NZ",
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "currency": "NZD",
+    "calling_code": "+64"
   },
   {
-    "id": 6,
-    "name": "Fransa",
-    "iso2": "FR",
-    "iso3": "FRA",
-    "phone_code": "+33",
-    "capital": "Paris",
+    "code": "JP",
+    "name": "Japan",
+    "continent": "Asia",
+    "currency": "JPY",
+    "calling_code": "+81"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "continent": "Asia",
+    "currency": "CNY",
+    "calling_code": "+86"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "continent": "Asia",
+    "currency": "INR",
+    "calling_code": "+91"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "continent": "Asia",
+    "currency": "KRW",
+    "calling_code": "+82"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "continent": "Asia",
+    "currency": "SGD",
+    "calling_code": "+65"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "continent": "Asia",
+    "currency": "MYR",
+    "calling_code": "+60"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "continent": "Asia",
+    "currency": "THB",
+    "calling_code": "+66"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "continent": "Asia",
+    "currency": "IDR",
+    "calling_code": "+62"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "continent": "Asia",
+    "currency": "PHP",
+    "calling_code": "+63"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "continent": "Asia",
+    "currency": "VND",
+    "calling_code": "+84"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "continent": "Africa",
+    "currency": "ZAR",
+    "calling_code": "+27"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "continent": "Africa",
+    "currency": "NGN",
+    "calling_code": "+234"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "continent": "Africa",
+    "currency": "EGP",
+    "calling_code": "+20"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "continent": "Africa",
+    "currency": "KES",
+    "calling_code": "+254"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "continent": "Middle East",
+    "currency": "SAR",
+    "calling_code": "+966"
+  },
+  {
+    "code": "AE",
+    "name": "UAE",
+    "continent": "Middle East",
+    "currency": "AED",
+    "calling_code": "+971"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "continent": "Middle East",
+    "currency": "ILS",
+    "calling_code": "+972"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "continent": "Middle East",
+    "currency": "TRY",
+    "calling_code": "+90"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "continent": "Europe",
+    "currency": "RUB",
+    "calling_code": "+7"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "continent": "Europe",
+    "currency": "UAH",
+    "calling_code": "+380"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "continent": "Europe",
+    "currency": "CHF",
+    "calling_code": "+41"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "continent": "Europe",
     "currency": "EUR",
-    "currency_name": "Euro",
-    "currency_symbol": "€",
-    "region": "Avrupa",
-    "subregion": "Batı Avrupa",
-    "states_count": 18,
-    "cities_per_state": 6
+    "calling_code": "+43"
   }
 ]

@@ -1,6 +1,10 @@
 {
-  "website": 60,
+  "website": 45,
   "mobile_app": 25,
-  "phone": 10,
-  "in_store": 5
+  "phone": 8,
+  "in_store": 5,
+  "social_media": 8,
+  "email": 4,
+  "referral": 3,
+  "marketplace": 2
 }

@@ -1,1 +1,22 @@
-["USD", "CAD", "GBP", "AUD", "EUR", "JPY", "INR", "BRL", "MXN"]
+[
+  "USD",
+  "GBP",
+  "EUR",
+  "CAD",
+  "AUD",
+  "JPY",
+  "INR",
+  "BRL",
+  "CHF",
+  "CNY",
+  "SGD",
+  "NZD",
+  "MXN",
+  "ZAR",
+  "AED",
+  "SAR",
+  "HKD",
+  "SEK",
+  "NOK",
+  "DKK"
+]

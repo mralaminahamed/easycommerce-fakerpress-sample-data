@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "standard",
+    "name": "Standard Rate",
+    "description": "Default tax rate for most products"
+  },
+  {
+    "slug": "reduced-rate",
+    "name": "Reduced Rate",
+    "description": "Lower rate for essential goods"
+  },
+  {
+    "slug": "zero-rate",
+    "name": "Zero Rate",
+    "description": "Tax-exempt items"
+  },
+  {
+    "slug": "exempt",
+    "name": "Tax Exempt",
+    "description": "Completely exempt from taxation"
+  },
+  {
+    "slug": "digital-services",
+    "name": "Digital Services",
+    "description": "Special rate for digital goods and services"
+  },
+  {
+    "slug": "food-beverage",
+    "name": "Food & Beverage",
+    "description": "Rate applicable to food and drink items"
+  },
+  {
+    "slug": "pharmaceutical",
+    "name": "Pharmaceutical",
+    "description": "Rate for medical and pharmaceutical products"
+  },
+  {
+    "slug": "luxury",
+    "name": "Luxury Goods",
+    "description": "Higher rate for luxury and premium items"
+  }
+]

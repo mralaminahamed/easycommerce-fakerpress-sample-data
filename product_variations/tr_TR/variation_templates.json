@@ -1,0 +1,90 @@
+[
+  {
+    "attribute": "color",
+    "values": [
+      "Black",
+      "White",
+      "Gray",
+      "Navy",
+      "Red",
+      "Blue",
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "attribute": "size",
+    "values": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "attribute": "storage",
+    "values": [
+      "64GB",
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "attribute": "material",
+    "values": [
+      "Cotton",
+      "Polyester",
+      "Wool",
+      "Silk",
+      "Denim",
+      "Linen"
+    ]
+  },
+  {
+    "attribute": "finish",
+    "values": [
+      "Matte",
+      "Glossy",
+      "Satin",
+      "Brushed"
+    ]
+  },
+  {
+    "attribute": "pack_size",
+    "values": [
+      "1-pack",
+      "2-pack",
+      "3-pack",
+      "5-pack",
+      "10-pack",
+      "Bulk"
+    ]
+  },
+  {
+    "attribute": "style",
+    "values": [
+      "Classic",
+      "Modern",
+      "Vintage",
+      "Minimalist",
+      "Bold",
+      "Sport"
+    ]
+  },
+  {
+    "attribute": "scent",
+    "values": [
+      "Unscented",
+      "Lavender",
+      "Citrus",
+      "Fresh",
+      "Ocean",
+      "Vanilla",
+      "Rose"
+    ]
+  }
+]

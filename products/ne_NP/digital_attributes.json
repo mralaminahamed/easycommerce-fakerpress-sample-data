@@ -1,27 +1,89 @@
 {
-  "format": {
-    "name": "ढाँचा",
-    "type": "text",
-    "values": ["PDF", "MP4", "MP3", "ZIP", "EXE", "DMG"]
-  },
   "license": {
-    "name": "लाइसेन्स",
+    "name": "License",
     "type": "text",
-    "values": ["व्यक्तिगत", "व्यावसायिक", "विस्तारित", "उद्यम"]
-  },
-  "version": {
-    "name": "संस्करण",
-    "type": "text",
-    "values": ["1.0", "2.0", "3.0", "आधारभूत", "प्रो", "प्रिमियम"]
+    "values": [
+      "Personal",
+      "Commercial",
+      "Extended Commercial",
+      "Developer",
+      "Agency",
+      "Unlimited",
+      "OEM"
+    ]
   },
   "platform": {
-    "name": "प्लेटफर्म",
+    "name": "Platform",
     "type": "text",
-    "values": ["Windows", "macOS", "Linux", "iOS", "Android", "Web"]
+    "values": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS",
+      "Android",
+      "Web",
+      "Cross-platform",
+      "ChromeOS"
+    ]
   },
-  "subscription": {
-    "name": "सदस्यता",
+  "format": {
+    "name": "Format",
     "type": "text",
-    "values": ["मासिक", "वार्षिक", "आजीवन"]
+    "values": [
+      "PDF",
+      "MP4",
+      "ZIP",
+      "EXE",
+      "DMG",
+      "APK",
+      "EPUB",
+      "MP3",
+      "PNG",
+      "SVG",
+      "PSD",
+      "AI"
+    ]
+  },
+  "language": {
+    "name": "Language",
+    "type": "text",
+    "values": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Arabic",
+      "Hindi",
+      "Italian"
+    ]
+  },
+  "duration": {
+    "name": "Duration / Access",
+    "type": "text",
+    "values": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "1 year",
+      "2 years",
+      "Lifetime",
+      "Per device"
+    ]
+  },
+  "seats": {
+    "name": "Seats / Users",
+    "type": "text",
+    "values": [
+      "1 user",
+      "2 users",
+      "5 users",
+      "10 users",
+      "25 users",
+      "50 users",
+      "Unlimited"
+    ]
   }
 }

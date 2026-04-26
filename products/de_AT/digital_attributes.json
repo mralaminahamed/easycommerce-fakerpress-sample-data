@@ -1,27 +1,89 @@
 {
+  "license": {
+    "name": "License",
+    "type": "text",
+    "values": [
+      "Personal",
+      "Commercial",
+      "Extended Commercial",
+      "Developer",
+      "Agency",
+      "Unlimited",
+      "OEM"
+    ]
+  },
+  "platform": {
+    "name": "Platform",
+    "type": "text",
+    "values": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS",
+      "Android",
+      "Web",
+      "Cross-platform",
+      "ChromeOS"
+    ]
+  },
   "format": {
     "name": "Format",
     "type": "text",
-    "values": ["PDF", "MP4", "MP3", "ZIP", "EXE", "DMG"]
+    "values": [
+      "PDF",
+      "MP4",
+      "ZIP",
+      "EXE",
+      "DMG",
+      "APK",
+      "EPUB",
+      "MP3",
+      "PNG",
+      "SVG",
+      "PSD",
+      "AI"
+    ]
   },
-  "license": {
-    "name": "Lizenz",
+  "language": {
+    "name": "Language",
     "type": "text",
-    "values": ["Persönlich", "Kommerziell", "Erweitert", "Unternehmen"]
+    "values": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Arabic",
+      "Hindi",
+      "Italian"
+    ]
   },
-  "version": {
-    "name": "Version",
+  "duration": {
+    "name": "Duration / Access",
     "type": "text",
-    "values": ["1.0", "2.0", "3.0", "Basic", "Pro", "Premium"]
+    "values": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "1 year",
+      "2 years",
+      "Lifetime",
+      "Per device"
+    ]
   },
-  "platform": {
-    "name": "Plattform",
+  "seats": {
+    "name": "Seats / Users",
     "type": "text",
-    "values": ["Windows", "macOS", "Linux", "iOS", "Android", "Web"]
-  },
-  "subscription": {
-    "name": "Abonnement",
-    "type": "text",
-    "values": ["Monatlich", "Jährlich", "Lebenslang"]
+    "values": [
+      "1 user",
+      "2 users",
+      "5 users",
+      "10 users",
+      "25 users",
+      "50 users",
+      "Unlimited"
+    ]
   }
 }

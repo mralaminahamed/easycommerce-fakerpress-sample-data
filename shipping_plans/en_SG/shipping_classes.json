@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "standard",
+    "name": "Standard",
+    "description": "Standard shipping class for regular items"
+  },
+  {
+    "slug": "bulky",
+    "name": "Bulky Items",
+    "description": "For large or heavy products"
+  },
+  {
+    "slug": "fragile",
+    "name": "Fragile",
+    "description": "Items requiring special handling"
+  },
+  {
+    "slug": "digital",
+    "name": "Digital",
+    "description": "No shipping required — digital delivery"
+  },
+  {
+    "slug": "oversized",
+    "name": "Oversized",
+    "description": "Items exceeding standard size limits"
+  },
+  {
+    "slug": "perishable",
+    "name": "Perishable",
+    "description": "Requires temperature-controlled shipping"
+  }
+]

@@ -1,8 +1,8 @@
 {
-  "unfulfilled": 32,
-  "partially_fulfilled": 10,
-  "fulfilled": 25,
-  "shipped": 20,
-  "delivered": 10,
-  "returned": 3
+  "unfulfilled": 20,
+  "partial": 10,
+  "fulfilled": 55,
+  "returned": 5,
+  "cancelled": 8,
+  "on-hold": 2
 }

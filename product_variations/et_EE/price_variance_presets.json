@@ -1,0 +1,22 @@
+[
+  {
+    "label": "no_variance",
+    "min": 0,
+    "max": 0
+  },
+  {
+    "label": "slight",
+    "min": -5,
+    "max": 10
+  },
+  {
+    "label": "moderate",
+    "min": -10,
+    "max": 20
+  },
+  {
+    "label": "high",
+    "min": -15,
+    "max": 40
+  }
+]
